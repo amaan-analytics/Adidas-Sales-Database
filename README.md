@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project analyzes Adidas sales data using **MS Excel**.  
 The dataset includes sales by product, region, retailer, and revenue.  
-Interactive dashboards and pivot tables, Slicers were created to identify trends and insights.
+Interactive dashboards, pivot tables and Slicers were created to identify trends and insights.
 
 ## 🔧 Tools Used
 - Microsoft Excel  
