@@ -19,9 +19,9 @@ Interactive dashboards, pivot tables and Slicers were created to identify trends
 - Revenue trends over time  
 
 ## 📂 Files in Repository
-- `adidas_sales.xlsx` → Main Excel project  
-- `dashboard_screenshot.jpg`
-- `Raw_Data_screenshot.jpg`
+- `adidas_sale_Database.xlsx` → Main Excel project  
+- `Adidas US Interactive Sales Dashboard.jpg` → Dashboard Screenshot
+- `Raw_Data_screenshot.jpg` → Raw Data Screenshot
 
 ## 🚀 Future Improvements
 - Automating sales reporting with Power BI  
